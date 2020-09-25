@@ -6,7 +6,7 @@ However, I'm a full stack developer at heart and in profession, and have profess
 working on Angular (and a little bit of React) on front end, plus Node.js and Java (Sprint + Boot)  
 with MongoDB, MySQL as the persistence stack on the back end as a full stack developer.
 
-Other stuff I've worked on has involved playing around with Shell and Python scripting 
+Other stuff I've worked on has involved playing around with Shell and Python scripting  
 and researching/implementing good UI/UX design.
 
 [![LinkedIn][ic-linkedin]][linkedin] [![Twitter][ic-twitter]][twitter] [![Mail][ic-mail]][mail] 
