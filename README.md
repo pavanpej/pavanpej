@@ -1,6 +1,6 @@
 ### Hey there, I am Pavan. :wave: 
 
-**I am currently working as a cloud engineer, working with Golang, Kubernetes, and Docker.**
+**I am a software engineer, currently working with Golang, Kubernetes, and Docker.**
 
 However, I'm a full stack developer at heart and in profession, and have professional experience  
 working on Angular (and a little bit of React) on front end, plus Node.js and Java (Sprint + Boot)  
